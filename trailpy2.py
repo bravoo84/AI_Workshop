@@ -1,5 +1,6 @@
-
-myVar=50
-if myVar<100:
-    print(" u are shortlisted")
-print("goodBye")
+var=1
+while(var<=15):
+    if(var==10):
+        break
+    print(var)
+    var+=1
